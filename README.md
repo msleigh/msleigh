@@ -6,6 +6,8 @@ Currently working on [...]() and associated projects. Read
 
 ### Recent releases
 <!-- recent_releases starts -->
+[fcimc Initial release](https://github.com/msleigh/fcimc/releases/tag/v1.0.0) - 2020-11-19
+
 [test-github-actions Test Release 6](https://github.com/msleigh/test-github-actions/releases/tag/v0.0.6) - 2020-09-16
 
 [flafl Test Release 4](https://github.com/msleigh/flafl/releases/tag/v0.0.4) - 2020-09-15
