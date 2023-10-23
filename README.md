@@ -10,5 +10,5 @@ Latest posts on [msleigh.io](https://msleigh.io/) (updated Mon, 23 Oct 2023 22:3
 - [MathJax on Jekyll](https://msleigh.io/blog/2022/11/20/mathjax-on-jekyll/) - Sun, 20 Nov 2022 00:00:00 +0000
 <!-- blog ends -->
 
-<a href="https://github.com/msleigh/msleigh/actions"><img src="https://github.com/msleigh/msleigh/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+<a href="https://github.com/msleigh/msleigh/actions"><img src="https://github.com/msleigh/msleigh/actions/workflows/build.yml/badge.svg" align="right" alt="Build README"></a>
 <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Credit</a>
