@@ -1,13 +1,13 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh](https://msleigh.io/) (updated 2023-07-12T18:08:27+00:00):
-- [Markdown notes from Zotero](https://msleigh.io/zotero/markdown/zettelkasten/2023/07/12/markdown-notes-from-zotero.html) - 2023-07-12
-- [Text extraction from PDF (with Python), two ways](https://msleigh.io/2023/06/12/text-extraction-from-pdf-two-ways.html) - 2023-06-12
-- [Where is Python on macOS?](https://msleigh.io/python/macos/homebrew/2023/05/14/where-is-python.html) - 2023-05-14
-- [MathJax on Jekyll](https://msleigh.io/jekyll/web/2022/11/20/mathjax.html) - 2022-11-20
-- [How to get an external link icon (uses Iconify)](https://msleigh.io/jekyll/web/2022/11/19/how-external-link-icon.html) - 2022-11-19
-- [How to get a favicon](https://msleigh.io/jekyll/web/2022/11/18/how-favicon.html) - 2022-11-18
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Mon, 23 Oct 2023 22:36:56 -0000):
+- [Obsidian and Foam side-by-side](https://msleigh.io/blog/2023/09/04/obsidian-and-foam-side-by-side/) - Mon, 04 Sep 2023 00:00:00 +0000
+- [Am I in a Git repository?](https://msleigh.io/blog/2023/07/20/am-i-in-a-git-repository/) - 
+- [Markdown notes from Zotero](https://msleigh.io/blog/2023/07/12/markdown-notes-from-zotero/) - Wed, 12 Jul 2023 00:00:00 +0000
+- [Text extraction from PDF (with Python), two ways](https://msleigh.io/blog/2023/06/12/text-extraction-from-pdf-with-python-two-ways/) - Mon, 12 Jun 2023 00:00:00 +0000
+- [Where is Python on macOS?](https://msleigh.io/blog/2023/05/14/where-is-python-on-macos/) - Sun, 14 May 2023 00:00:00 +0000
+- [MathJax on Jekyll](https://msleigh.io/blog/2022/11/20/mathjax-on-jekyll/) - Sun, 20 Nov 2022 00:00:00 +0000
 <!-- blog ends -->
 
 <a href="https://github.com/msleigh/msleigh/actions"><img src="https://github.com/msleigh/msleigh/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
