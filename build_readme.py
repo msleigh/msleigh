@@ -16,7 +16,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_blog_entries():
     entries = feedparser.parse(
-        r"https://msleigh.io/feed.xml"
+        r"https://www.msleigh.io/feed_rss_created.xml"
     )
     return (
         entries.feed.title,
