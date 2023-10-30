@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Mon, 23 Oct 2023 23:00:01 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Mon, 30 Oct 2023 00:52:05 -0000):
 - [Setting up a personal website and blog with Material for MkDocs](https://msleigh.io/blog/2023/09/24/setting-up-a-personal-website-and-blog-with-material-for-mkdocs/) - Sun, 24 Sep 2023 00:00:00 +0000
 - [Obsidian and Foam side-by-side](https://msleigh.io/blog/2023/09/04/obsidian-and-foam-side-by-side/) - Mon, 04 Sep 2023 00:00:00 +0000
 - [Am I in a Git repository?](https://msleigh.io/blog/2023/07/20/am-i-in-a-git-repository/) - 
