@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Sat, 20 Jan 2024 14:36:38 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Sat, 20 Jan 2024 20:00:36 -0000):
 - [Logging Spotify data with Spotifyd](https://msleigh.io/blog/2023/12/23/logging-spotify-data-with-spotifyd/) - Sat, 23 Dec 2023 00:00:00 +0000
 - [Defining Python dependencies for both Poetry and Pip](https://msleigh.io/blog/2023/12/22/defining-python-dependencies-for-both-poetry-and-pip/) - Fri, 22 Dec 2023 00:00:00 +0000
 - [A toy Monte Carlo criticality code](https://msleigh.io/blog/2023/12/21/a-toy-monte-carlo-criticality-code/) - Thu, 21 Dec 2023 00:00:00 +0000
