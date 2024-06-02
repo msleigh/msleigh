@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Wed, 13 Mar 2024 09:32:14 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Sun, 02 Jun 2024 19:54:12 -0000):
 - [Finding notes and blog posts with Fuzzyfinder and Ripgrep](https://msleigh.io/blog/2024/01/21/finding-notes-and-blog-posts-with-fuzzyfinder-and-ripgrep/) - Sun, 21 Jan 2024 00:00:00 +0000
 - [Using the Zotero API](https://msleigh.io/blog/2024/01/20/using-the-zotero-api/) - Sat, 20 Jan 2024 00:00:00 +0000
 - [Logging Spotify data with Spotifyd](https://msleigh.io/blog/2023/12/23/logging-spotify-data-with-spotifyd/) - Sat, 23 Dec 2023 00:00:00 +0000
