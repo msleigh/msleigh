@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Mon, 24 Jun 2024 13:34:12 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Fri, 01 Nov 2024 13:44:46 -0000):
 - [A Git worktree workflow](https://msleigh.io/blog/2024/06/15/a-git-worktree-workflow/) - Sat, 15 Jun 2024 00:00:00 +0000
 - [What did you bring me that book to be read to out of for?](https://msleigh.io/blog/2024/06/09/what-did-you-bring-me-that-book-to-be-read-to-out-of-for/) - Sun, 09 Jun 2024 00:00:00 +0000
 - [Finding notes and blog posts with Fuzzyfinder and Ripgrep](https://msleigh.io/blog/2024/01/21/finding-notes-and-blog-posts-with-fuzzyfinder-and-ripgrep/) - Sun, 21 Jan 2024 00:00:00 +0000
