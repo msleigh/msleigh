@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Sat, 23 Nov 2024 10:53:10 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Tue, 31 Dec 2024 15:50:29 -0000):
 - [Testing the Python SDK for Bluesky's AT Protocol](https://msleigh.io/blog/2024/11/13/testing-the-python-sdk-for-blueskys-at-protocol/) - Wed, 13 Nov 2024 00:00:00 +0000
 - [Syncing a Bitbucket repository to GitHub with GitHub Actions](https://msleigh.io/blog/2024/09/09/syncing-a-bitbucket-repository-to-github-with-github-actions/) - Mon, 09 Sep 2024 00:00:00 +0000
 - [Kelvin and the tripos](https://msleigh.io/blog/2024/06/25/kelvin-and-the-tripos/) - Tue, 25 Jun 2024 00:00:00 +0000
