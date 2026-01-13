@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Thu, 30 Oct 2025 11:20:29 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Tue, 13 Jan 2026 18:50:22 -0000):
 - [Tmux cheat sheet - another one-shot LLM-derived Python script](https://msleigh.io/blog/2025/02/09/tmux-cheat-sheet-another-one-shot-llm-derived-python-script/) - Sun, 09 Feb 2025 00:00:00 +0000
 - [Almost fully LLM-generated Python script for managing a blog](https://msleigh.io/blog/2025/02/06/almost-fully-llm-generated-python-script-for-managing-a-blog/) - Thu, 06 Feb 2025 00:00:00 +0000
 - [Using GNU Stow for deploying dotfiles](https://msleigh.io/blog/2025/01/31/using-gnu-stow-for-deploying-dotfiles/) - Fri, 31 Jan 2025 00:00:00 +0000
