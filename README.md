@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Sun, 08 Feb 2026 23:25:22 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Fri, 27 Feb 2026 10:52:57 -0000):
 - [LyX to Markdown converter](https://msleigh.io/blog/2026/02/08/lyx-to-markdown-converter/) - Sun, 08 Feb 2026 00:00:00 +0000
 - [Tmux cheat sheet - another one-shot LLM-derived Python script](https://msleigh.io/blog/2025/02/09/tmux-cheat-sheet-another-one-shot-llm-derived-python-script/) - Sun, 09 Feb 2025 00:00:00 +0000
 - [Almost fully LLM-generated Python script for managing a blog](https://msleigh.io/blog/2025/02/06/almost-fully-llm-generated-python-script-for-managing-a-blog/) - Thu, 06 Feb 2025 00:00:00 +0000
