@@ -1,7 +1,7 @@
 ### Recent posts
 
 <!-- blog starts -->
-Latest posts on [msleigh.io](https://msleigh.io/) (updated Sun, 16 Aug 2026 13:52:25 -0000):
+Latest posts on [msleigh.io](https://msleigh.io/) (updated Wed, 26 Aug 2026 12:53:39 -0000):
 - [Scaffolding blog posts with an agent skill deployed via chezmoi](https://msleigh.io/blog/2026/07/02/scaffolding-blog-posts-with-an-agent-skill-deployed-via-chezmoi/) - Thu, 02 Jul 2026 00:00:00 +0000
 - [Deploying LaunchAgents with chezmoi](https://msleigh.io/blog/2026/06/30/deploying-launchagents-with-chezmoi/) - Tue, 30 Jun 2026 00:00:00 +0000
 - [Local models with Ollama and OpenCode](https://msleigh.io/blog/2026/06/30/local-models-with-ollama-and-opencode/) - Tue, 30 Jun 2026 00:00:00 +0000
